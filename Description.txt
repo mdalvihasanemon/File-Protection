@@ -1,4 +1,3 @@
-**Description:**
 
 The File/Folder Protection Software is a lightweight tool designed to enhance the security of sensitive files and folders by converting them into a Control Panel format. This software offers users a straightforward command-line interface for protecting and restoring their data.
 
