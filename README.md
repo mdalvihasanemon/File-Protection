@@ -74,10 +74,6 @@ We welcome contributions from the community! To contribute to the project, pleas
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Thanks to the open-source community for their invaluable contributions.
@@ -85,8 +81,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or support, please contact us at:  
-**Email**: alvihasa179@gmail.com  
-**Website**: [www.yourcompany.com](https://alvihasanemon.blogspot.com/)
+For any inquiries or support, don't hesitate to get in touch with us at:  
+**Email**: alvihasan179@gmail.com  
+**Website**: [alvihasanemon](https://alvihasanemon.blogspot.com/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
